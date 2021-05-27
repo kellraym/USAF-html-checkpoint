@@ -1,4 +1,4 @@
-#USAF_HTML_Checkpoint
+# USAF_HTML_Checkpoint
 
 Done in pair programming with Ray Kell
 
