@@ -6,8 +6,8 @@ header {
   display: grid;
   grid-template-columns: 1fr 8fr 8fr 8fr 4fr;
   background-color: rgb(71, 71, 71);
-  color: rgb(200, 200, 200);
-  /* display: flex; */
+  color: #c8c8c8;
+  font-weight: 500;
   align-items: center;
 }
 
@@ -24,6 +24,12 @@ nav li {
   grid-column: 2/3;
   display: inline;
   margin: 0 10px;
+}
+
+nav li a {
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
 }
 
 .search {
@@ -63,13 +69,19 @@ margin: 75px;
   grid-column: 2 / 3;
   margin-bottom: 30px;
 }
+.email label {
+  margin-bottom: 10px;
+}
 .email input {
   width: 100%;
 }
 .password {
   grid-row: 3 / 4;
   grid-column: 2 / 3;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
+}
+.password label {
+  margin-bottom: 10px;
 }
 .password input {
   width: 100%;
@@ -90,7 +102,7 @@ margin: 75px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr;
-  
+
 }
 
 img {
