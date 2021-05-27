@@ -1,3 +1,7 @@
+#USAF_HTML_Checkpoint
+
+Done in pair programming with Ray Kell
+
 This project will evaluate your ability to create a website from a high fidelity design.
 
 The goal of this checkpoint is not to get an A. The goal is to show us what you have learned and how much you can get done independently. Like other checkpoints, you are free to use the Internet look things up and look at past Learn content!
