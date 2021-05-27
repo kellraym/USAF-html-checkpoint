@@ -21,6 +21,8 @@ Do your best to implement those 4 features using what you have learned about HTM
 Feel free to use outside resources if you need assistance with syntax for HTML or CSS.
 This is a purely visual exercise, do not worry about data/content - feel free to hardcode movie data to make things look operational.
 
+Excercise examples:
+----
 ![login](./assets/login.png)
 
 ![gallery](./assets/gallery.png)
