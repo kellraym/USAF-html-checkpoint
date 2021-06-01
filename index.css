@@ -26,6 +26,11 @@ nav li {
   margin: 0 10px;
 }
 
+li a {
+  color: gray;
+  text-decoration: none;
+}
+
 .search {
   grid-column: 5/5;
   padding-bottom: 15px;
@@ -36,8 +41,8 @@ nav li {
 }
 .search button {
   background-color:rgb(71, 71, 71);
-  color: rgb(204, 204, 4);
-  border: solid rgb(204, 204, 4) 2px;
+  color: rgb(204, 157, 4);
+  border: solid rgb(204, 157, 4) 2px;
   border-radius: 10%;
 }
 
@@ -94,7 +99,7 @@ margin: 75px;
 }
 
 img {
-  max-width: 80%;
+  width: 90%;
   border-radius: 7.5px;
 }
 
