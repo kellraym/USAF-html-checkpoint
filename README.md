@@ -1,4 +1,4 @@
-# USSF_HTML_Checkpoint
+# HTML_Practice_UI_Copy
 
 Done in pair programming with Ray Kell
 
